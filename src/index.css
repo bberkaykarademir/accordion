@@ -53,3 +53,13 @@ button {
   font-size: 1.1em;
   cursor: pointer;
 }
+
+h2{
+  font-size: small;
+}
+
+@media screen and (max-width: 666px) {
+  .titlesec{
+    display: block;
+  }
+}
